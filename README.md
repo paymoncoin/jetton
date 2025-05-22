@@ -1,4 +1,4 @@
-# dex
+# Paymon Coin
 
 ## Project structure
 
